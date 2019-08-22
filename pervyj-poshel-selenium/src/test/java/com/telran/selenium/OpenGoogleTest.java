@@ -12,7 +12,7 @@ public class OpenGoogleTest {
        driver= new ChromeDriver();
        driver.get("https://www.google.com");
        driver.findElement(By.name("q")).sendKeys("Bobruisk");
-       driver.findElement(By.name("q")).click();
+       driver.findElement(By.name("go")).click();
        Thread.sleep(6000);
        driver.quit();
 
