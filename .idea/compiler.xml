@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="pervyj-poshel-selenium.main" target="1.8" />
       <module name="pervyj-poshel-selenium.test" target="1.8" />
+      <module name="telran.pervyj-poshel-selenium.main" target="1.8" />
+      <module name="telran.pervyj-poshel-selenium.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
