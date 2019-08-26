@@ -2,6 +2,14 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="jjjj.main" target="1.8" />
+      <module name="jjjj.test" target="1.8" />
+      <module name="login-wiki.main" target="1.8" />
+      <module name="login-wiki.test" target="1.8" />
+      <module name="login-wki1.main" target="1.8" />
+      <module name="login-wki1.test" target="1.8" />
+      <module name="mojtest.main" target="1.8" />
+      <module name="mojtest.test" target="1.8" />
       <module name="pervyj-poshel-selenium.main" target="1.8" />
       <module name="pervyj-poshel-selenium.test" target="1.8" />
       <module name="telran.pervyj-poshel-selenium.main" target="1.8" />

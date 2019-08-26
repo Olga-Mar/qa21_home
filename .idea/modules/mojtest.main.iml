@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="mojtest:main" external.linked.project.path="$MODULE_DIR$/../../mojtest" external.root.project.path="$MODULE_DIR$/../../mojtest" external.system.id="GRADLE" external.system.module.group="trannn" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../jjjj" rootProjectPath="$MODULE_DIR$/../../jjjj" />
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../mojtest/build/classes/java/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../mojtest/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../mojtest/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../mojtest/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

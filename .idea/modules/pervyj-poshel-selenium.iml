@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module external.linked.project.id="pervyj-poshel-selenium" external.linked.project.path="$MODULE_DIR$/../../pervyj-poshel-selenium" external.root.project.path="$MODULE_DIR$/../../pervyj-poshel-selenium" external.system.id="GRADLE" external.system.module.group="telran" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
-  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../wiki-web-tests" rootProjectPath="$MODULE_DIR$/../../wiki-web-tests" />
+  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../login-wki1" rootProjectPath="$MODULE_DIR$/../../login-wki1" />
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../pervyj-poshel-selenium">
