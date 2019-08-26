@@ -1,34 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/login-wki1" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.8" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/login-wki1" />
+            <option value="$PROJECT_DIR$" />
           </set>
         </option>
         <option name="useQualifiedModuleNames" value="true" />
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/pervyj-poshel-selenium" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../pervyj-poshel-selenium" />
+        <option name="gradleJvm" value="1.8" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/pervyj-poshel-selenium" />
+            <option value="$PROJECT_DIR$/../pervyj-poshel-selenium" />
           </set>
         </option>
         <option name="useQualifiedModuleNames" value="true" />
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/wiki-web-tests" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../wiki-web-tests" />
+        <option name="gradleJvm" value="1.8" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/wiki-web-tests" />
+            <option value="$PROJECT_DIR$/../wiki-web-tests" />
           </set>
         </option>
         <option name="useQualifiedModuleNames" value="true" />
