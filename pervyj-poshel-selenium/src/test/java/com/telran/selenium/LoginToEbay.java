@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 public class LoginToEbay extends TestBase {
     @Test
     public void logInTest(){
-        driver.get("https://www.ebay.com");
+        driver.get ("https://www.ebay.com");
         click(By.id("gh-ug"));
         //
         click(By.id("userid"));

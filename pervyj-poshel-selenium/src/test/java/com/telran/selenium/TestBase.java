@@ -12,6 +12,7 @@ public class TestBase {
 
     @BeforeMethod
 
+
     public void setUp() throws InterruptedException {
        driver= new ChromeDriver();
        driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);//vremya ojidaniya

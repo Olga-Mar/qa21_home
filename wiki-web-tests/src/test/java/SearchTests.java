@@ -8,7 +8,7 @@ public class SearchTests {
     WebDriver driver;
     @BeforeClass
     public void setUp(){
-        driver= new ChromeDriver();
+        driver = new ChromeDriver();
         //open site
         driver.get("https://en.wikipedia.org");
     }

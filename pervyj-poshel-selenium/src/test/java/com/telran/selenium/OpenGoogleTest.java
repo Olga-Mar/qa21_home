@@ -16,6 +16,7 @@ public class OpenGoogleTest extends TestBase {
 
     @Test
 
+
     public void searchJavaTest() throws InterruptedException {
         driver.get("https://www.google.com");
         driver.findElement(By.name("q")).click();
