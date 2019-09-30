@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.wiki.tests.WikiLogin" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-09-30T09:32:16" hostname="DESKTOP-UMTPGLA" time="3.287">
+  <properties/>
+  <testcase name="WikiLogin" classname="com.wiki.tests.WikiLogin" time="3.287"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -5,24 +5,40 @@ import org.testng.annotations.Test;
 
 public class LoginToEbay extends TestBase {
     @Test
-    public void logInTest(){
-        driver.get ("https://www.ebay.com");
-        click(By.id("gh-ug"));
-        //
-        click(By.id("userid"));
-        driver.findElement(By.id("userid")).clear();
-        driver.findElement(By.id("userid")).sendKeys("adhggfk@jhdgfg.com");
+    public void logInTest() {
+        driver.get("https://www.ebay.com");
+        //init login???
+        //click(By.id("gh-ug"));
+        initLogin();
 
-        click(By.id("pass"));
-        driver.findElement(By.id("pass")).clear();
-        driver.findElement(By.id("pass")).sendKeys("123456789");
+       // fillLofinForm( )
+        //fill login forme
+        type(By.id("userid"), "adhggfk@jhdgfg.com");
+        type(By.id("pass"), "123456789");
+
+       // click(By.id("pass"));
+       // driver.findElement(By.id("pass")).clear();
+        //driver.findElement(By.id("pass")).sendKeys("123456789");
 
         click(By.id("sgnBt"));
+        //
+
+
 
     }
 
-    public void click(By locator) {
-        driver.findElement(locator).click();
+    public void initLogin(){
+        click(By.id("gh=ug"));
     }
 
+    //  public void type(By locator, String text) {
+    //  click(locator);
+    //  driver.findElement(locator).clear();
+    //  driver.findElement(locator).sendKeys(text);
 }
+
+// public void click(By locator) {
+//    driver.findElement(locator).click();
+// }
+
+
