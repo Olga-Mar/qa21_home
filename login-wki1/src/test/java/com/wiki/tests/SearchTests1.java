@@ -19,7 +19,7 @@ public class SearchTests1 extends TestBase {
         TestBase.app.getArticle().typeRequest("QA");
         TestBase.app.getArticle().clickGoButton();
         Assert.assertEquals(TestBase.app.getArticle().getArticleTitle().toLowerCase(), "QA".toLowerCase());
-        //pause
+      ///  //pause
     }
 }
 //alt+enter- podgrugaet import, esli est krasnoe

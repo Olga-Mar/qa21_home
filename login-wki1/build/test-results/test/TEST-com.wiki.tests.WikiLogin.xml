@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.wiki.tests.WikiLogin" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-09-30T09:32:16" hostname="DESKTOP-UMTPGLA" time="3.287">
+<testsuite name="com.wiki.tests.WikiLogin" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-06T13:05:05" hostname="DESKTOP-UMTPGLA" time="4.111">
   <properties/>
-  <testcase name="WikiLogin" classname="com.wiki.tests.WikiLogin" time="3.287"/>
+  <testcase name="WikiLogin" classname="com.wiki.tests.WikiLogin" time="4.111"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
