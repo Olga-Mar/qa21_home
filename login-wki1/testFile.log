@@ -1,0 +1,6 @@
+13370 [main] INFO  com.wiki.tests.TestBase - start test WikiLogin
+18085 [main] INFO  com.wiki.tests.TestBase - stop test WikiLogin
+13554 [Test worker] INFO  com.wiki.tests.TestBase - start test searchWikiTestJava
+15824 [Test worker] INFO  com.wiki.tests.TestBase - stop test searchWikiTestJava
+15830 [Test worker] INFO  com.wiki.tests.TestBase - start test searchWikiTestQA
+17116 [Test worker] INFO  com.wiki.tests.TestBase - stop test searchWikiTestQA

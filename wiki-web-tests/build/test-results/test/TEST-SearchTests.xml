@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="SearchTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-08-25T23:00:58" hostname="DESKTOP-UMTPGLA" time="3.23">
+<testsuite name="SearchTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-10-10T09:52:39" hostname="DESKTOP-UMTPGLA" time="2.837">
   <properties/>
-  <testcase name="searchWikiTestJava" classname="SearchTests" time="1.948"/>
-  <testcase name="searchWikiTestQA" classname="SearchTests" time="1.275"/>
+  <testcase name="searchWikiTestJava" classname="SearchTests" time="1.653"/>
+  <testcase name="searchWikiTestQA" classname="SearchTests" time="1.18"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[Starting ChromeDriver 76.0.3809.126 (d80a294506b4c9d18015e755cee48f953ddc3f2f-refs/branch-heads/3809@{#1024}) on port 32250
+  <system-err><![CDATA[Starting ChromeDriver 77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}) on port 33385
 Only local connections are allowed.
 Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
-[1566774054.795][WARNING]: Timed out connecting to Chrome, retrying...
-Aug 26, 2019 2:00:56 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1570701155.464][WARNING]: Timed out connecting to Chrome, retrying...
+Oct 10, 2019 12:52:37 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 ]]></system-err>
 </testsuite>

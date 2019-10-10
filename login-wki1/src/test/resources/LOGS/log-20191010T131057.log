@@ -1,0 +1,4 @@
+13:11:10.658 [main] INFO  com.wiki.tests.TestBase - start test searchWikiTestQA
+13:11:12.796 [main] INFO  com.wiki.tests.TestBase - stop test searchWikiTestQA
+13:11:12.802 [main] INFO  com.wiki.tests.TestBase - start test searchWikiTestJava
+13:11:15.069 [main] INFO  com.wiki.tests.TestBase - stop test searchWikiTestJava

@@ -1,0 +1,4 @@
+13:03:36.508 [Test worker] INFO  com.wiki.tests.TestBase - start test searchWikiTestJava
+13:03:38.697 [Test worker] INFO  com.wiki.tests.TestBase - stop test searchWikiTestJava
+13:03:38.704 [Test worker] INFO  com.wiki.tests.TestBase - start test searchWikiTestQA
+13:03:39.968 [Test worker] INFO  com.wiki.tests.TestBase - stop test searchWikiTestQA

@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.wiki.tests.SearchTests1" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-10-06T13:05:11" hostname="DESKTOP-UMTPGLA" time="4.753">
+<testsuite name="com.wiki.tests.SearchTests1" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-10-10T10:10:26" hostname="DESKTOP-UMTPGLA" time="3.28">
   <properties/>
-  <testcase name="searchWikiTestQA" classname="com.wiki.tests.SearchTests1" time="1.657"/>
-  <testcase name="searchWikiTestJava" classname="com.wiki.tests.SearchTests1" time="3.094"/>
-  <system-out><![CDATA[]]></system-out>
+  <testcase name="searchWikiTestJava" classname="com.wiki.tests.SearchTests1" time="2.061"/>
+  <testcase name="searchWikiTestQA" classname="com.wiki.tests.SearchTests1" time="1.207"/>
+  <system-out><![CDATA[13:10:25.993 [Test worker] INFO  com.wiki.tests.TestBase - start test searchWikiTestJava
+13:10:28.069 [Test worker] INFO  com.wiki.tests.TestBase - stop test searchWikiTestJava
+*********************************************
+13:10:28.074 [Test worker] INFO  com.wiki.tests.TestBase - start test searchWikiTestQA
+13:10:29.283 [Test worker] INFO  com.wiki.tests.TestBase - stop test searchWikiTestQA
+*********************************************
+]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
